@@ -17,7 +17,7 @@ label {
  font-size: 24px;
 }
 
-input[type=text] {
+#main #url {
  padding: 10px;
  font-size: 18px;
  border-radius: 5px;
@@ -26,7 +26,7 @@ input[type=text] {
  width: 80%;
 }
 
-button[type=submit] {
+#main #short {
  padding: 10px;
  font-size: 18px;
  border-radius: 5px;
@@ -35,6 +35,15 @@ button[type=submit] {
  color: white;
  box-shadow: 0px 2px 4px rgba(0,0,0,0.3);
  cursor:pointer; 
+}
+
+.LinksDad{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 500px;
+    margin: auto;
 }
 
 .footer {
