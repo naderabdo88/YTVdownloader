@@ -21,6 +21,7 @@ document.querySelector(".download").addEventListener("click",()=>{
 		.catch((error) => {
 			console.error('Error:', error);
 		});
+	
 
 
 
