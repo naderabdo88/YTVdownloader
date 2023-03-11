@@ -1,3 +1,5 @@
 # YTVdownloader
 
-https://github.com/naderabdo88/YTVdownloader.git
+
+https://naderabdo88.github.io/YTVdownloader/
+
